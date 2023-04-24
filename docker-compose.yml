@@ -1,6 +1,5 @@
-services:
-  okvtwo:
-    build: .
+خدمات :
+    ساخت urgui: .
     shm_size: 2.6gb
     ports:
       - "80:80"
